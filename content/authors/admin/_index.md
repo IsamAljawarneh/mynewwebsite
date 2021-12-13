@@ -52,7 +52,7 @@ social:
   link: https://scholar.google.com/citations?user=hv5C-NIAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/isam-al-jawarneh-phd-9b9268b8/
+  link: https://www.linkedin.com/in/isam-al-jawarneh-9b9268b8/
 - icon: github
   icon_pack: fab
   link: https://github.com/IsamAljawarneh

@@ -1,30 +1,18 @@
+
 ---
-# An instance of the Contact widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
-
-# This file represents a page section.
+widget_id: contact
 headless: true
-
-# Order that this section appears on the page.
 weight: 130
-
 title: Contact
-subtitle:
-
+subtitle: better by email
+active: true
 content:
-  # Automatically link email and phone or display as text?
   autolink: true
-  
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-  
 design:
-  columns: '2'
+  columns: "2"
+  background:
+    color: "#f4f1f1"
+    image: ""
 ---
+{{< hl >}}I am open for collaboration. Contact me if you are working on any of the research topics that are related to my [research interests](#about).{{< /hl >}}

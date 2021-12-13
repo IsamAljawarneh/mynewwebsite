@@ -1,60 +1,72 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Isam Al Jawarneh
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Reseacher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Bologna
+  url: https://www.unibo.it/en/homepage
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include big data management (Cloud & Edge), large-scale geospatial database systems,context-aware recommender systems, data warehousing & data lakes.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Big data management (Cloud & Edge)
+- Large-scale geospatial database systems
+- Context-aware recommender systems
+- Data warehousing & data lakes
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Computer Science and Engineering
+    institution: University of Bologna, ITALY
+    year: 2020
+  - course: M.Sc. in Information Technology
+    institution: Universiti Utara Malaysia, MALAYSIA
     year: 2008
+  - course: BSc in Computer Science
+    institution: Al Al-Bayt University, JORDAN
+    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+- icon: cv
+  icon_pack: ai
+  link: "uploads/cv.pdf"
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=hv5C-NIAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/isam-al-jawarneh-phd-9b9268b8/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/IsamAljawarneh
+- icon: dblp
+  icon_pack: ai
+  link: https://dblp.org/pid/205/5499.html
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-4796-2181
+- icon: scopus
+  icon_pack: ai
+  link: https://www.scopus.com/authid/detail.uri?authorId=57204811672
+
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +82,6 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Isam Al Jawarneh is a Postdoctoral Researcher at University of Bologna, department of computer science and engineering. He obtained his Ph.D. degree in Computer Science and Engineering from University of Bologna in 2020, supervised by [Rebecca Montanari](https://www.unibo.it/sitoweb/rebecca.montanari/en). His research interests cover many aspects of `big geospatial data management` and `database systems`. Specifically, he focuses on [distributed geospatial database management systems](#publications)  from a perspective that spans many aspects related to designing novel indexing and querying schemes, in addition to novel models for approximate data query processing in the Cloud. He also has an interest in context-aware recommender systems, data warehousing & data lakes. Isam's research works have been presented and published in top-tier high-impact venues in computer science such as IEEE GLOBECOM & ICC conferences, in addition to IEEE transactions journals.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="cv" pack="ai" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.

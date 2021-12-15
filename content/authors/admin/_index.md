@@ -85,3 +85,7 @@ highlight_name: true
 Isam Al Jawarneh is a Postdoctoral Researcher at University of Bologna, department of computer science and engineering. He obtained his Ph.D. degree in Computer Science and Engineering from University of Bologna in 2020, supervised by [Rebecca Montanari](https://www.unibo.it/sitoweb/rebecca.montanari/en). His research interests cover many aspects of `big geospatial data management` and `database systems`. Specifically, he focuses on [distributed geospatial database management systems](#publications)  from a perspective that spans many aspects related to designing novel indexing and querying schemes, in addition to novel models for approximate data query processing in the Cloud. He also has an interest in context-aware recommender systems, data warehousing & data lakes. Isam's research works have been presented and published in top-tier high-impact venues in computer science such as IEEE GLOBECOM & ICC conferences, in addition to IEEE transactions journals.
 
 {{< icon name="cv" pack="ai" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+{{< icon name="cv" pack="ai" >}} Download my {{< staticref "uploads/research_ALJAWARNEH.pdf" "newtab" >}}research statement{{< /staticref >}}.
+
+{{< icon name="cv" pack="ai" >}} Download my {{< staticref "uploads/teaching_ALJAWARNEH.pdf" "newtab" >}}teaching statement{{< /staticref >}}.

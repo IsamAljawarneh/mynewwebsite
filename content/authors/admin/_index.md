@@ -86,6 +86,6 @@ Isam Al Jawarneh is a Postdoctoral Researcher at University of Bologna, departme
 
 {{< icon name="cv" pack="ai" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-Download my {{< staticref "uploads/research_ALJAWARNEH.pdf" "newtab" >}}research statement{{< /staticref >}}.
+{{< staticref "uploads/Research_ALJAWARNEH_update1.pdf" "newtab" >}}research statement{{< /staticref >}}.
 
-Download my {{< staticref "uploads/teaching_ALJAWARNEH.pdf" "newtab" >}}teaching statement{{< /staticref >}}.
+{{< staticref "uploads/teaching_ALJAWARNEH.pdf" "newtab" >}}teaching statement{{< /staticref >}}.

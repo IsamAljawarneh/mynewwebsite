@@ -59,7 +59,7 @@ url_video: "https://www.youtube.com/watch?v=T9_yLj0JyMM"
 projects:
 - meteoMobil
 ---
-
+{{< youtube T9_yLj0JyMM >}}
 {{% callout note %}}
 **FOSS4G** is the `largest` global gathering for geospatial software. I was invited by `Microsoft`.
 {{% /callout %}}

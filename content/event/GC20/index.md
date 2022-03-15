@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: Taiwan
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: IEEE GLOBECOM 2020
 abstract: ""
 
 # Talk start and end times.
@@ -54,6 +54,7 @@ url_video: ""
 
 ---
 
+{{< video library="true" src="videos/gc20.mp4" controls="yes" >}}
 {{% callout note %}}
 **IEEE GLOBECOM** is a `top-tier conference` ranked {{< hl >}}**`A-`**{{< /hl >}} by the [gii-grin-scie](https://scie.lcc.uma.es:8443/gii-grin-scie-rating/) initiative, and ranked {{< hl >}}`B`{{< /hl >}} by [CORE](http://portal.core.edu.au/conf-ranks/) .
 {{% /callout %}}

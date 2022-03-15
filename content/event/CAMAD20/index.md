@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: online
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: IEEE CAMAD 2020
 abstract: ""
 
 # Talk start and end times.
@@ -55,5 +55,7 @@ url_slides: "talks/CAMAD20.pdf"
 projects:
 - SpatialSPE
 ---
+
+{{< video library="true" src="videos/camad20.mp4" controls="yes" >}}
 
 

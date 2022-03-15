@@ -1,4 +1,4 @@
----
+	---
 title: Efficiently Integrating Mobility and Environment Data for Climate Change Analytics 
 
 event: IEEE CAMAD 2021
@@ -54,7 +54,7 @@ url_video: ""
 #   Otherwise, set `projects = []`.
 
 ---
-
+{{< video library="true" src="videos/camad21.mp4" controls="yes" >}}
 {{% callout note %}}
 This is part of a project funded by Microsoft {{< hl >}}`AI for Earth` {{< /hl >}}
 {{% /callout %}}

@@ -25,7 +25,7 @@ With most data arriving from real-world data-intensive problems being geo-refere
 
 |Part#|Slides   |   |   |   |
 |---|---|---|---|---|
-|Part 1: Introduction to distributed data-intensive applications|{{< staticref "uploads/PhD2022/Part1_1.pdf" "newtab" >}}download part1_1 : 18 July 2022{{< /staticref >}}| {{< staticref "" "newtab" >}}download part1_2{{< /staticref >}}  |   |   |
+|Part 1: Introduction to distributed data-intensive applications|{{< staticref "uploads/PhD_Course2022/Part1_1.pdf" "newtab" >}}download part1_1 : 18 July 2022{{< /staticref >}}| {{< staticref "" "newtab" >}}download part1_2{{< /staticref >}}  |   |   |
 |Part 2: Designing highly efficient geospatial data-intensive solutions|{{< staticref "" "newtab" >}}download{{< /staticref >}}   |   |   |   |
 |Part 3: Designing QoS-aware approximate solutions for distributed geo-spatial data-intensive applications|{{< staticref "" "newtab" >}}download{{< /staticref >}}    |   |   |   |
 |Part 4: state-of-art relevant papers discussion|{{< staticref "" "newtab" >}}download{{< /staticref >}}    |   |   |   |

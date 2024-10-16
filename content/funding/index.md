@@ -13,7 +13,20 @@ header:
   caption: ""
   image: ""
 ---
+{{< hl >}}project title{{< /hl >}}: *Distributed Algorithms for Efficient Approximate Analytics of Multidimensional Big Data Streams*
 
+{{< hl >}}Role{{< /hl >}}:  **`PI`** 
+
+{{< hl >}}Period{{< /hl >}}:  `07/30/2023 - 07/30/2025` 
+
+
+
+{{< spoiler text="Click here to view the project description" >}}
+**Project Description**
+
+The research project targets the challenge of reducing the adverse effects of climate changes on human health. Applications of Artificial Intelligence (AI) on spatially-tagged time-series human and vehicle mobility data to help in the efforts for reducing potential impacts of climate change.
+{{< /spoiler >}}
+--------------------------------------------------------------------------------------------
 {{< icon name="microsoft" pack="fab" >}} **Microsoft** [AI for Earth](https://www.microsoft.com/en-us/ai/ai-for-earth) **Fund** 
 
 

@@ -6,7 +6,7 @@ title: Isam Al Jawarneh
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Reseacher
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,6 +19,8 @@ bio: My research interests include big data management (Cloud & Edge), large-sca
 # Interests to show in About widget
 interests:
 - Big data management (Cloud & Edge)
+- Geospatial Data Science
+- Remote Sensing and GIS
 - Large-scale geospatial database systems
 - Context-aware recommender systems
 - Data warehousing & data lakes

@@ -13,7 +13,7 @@ header:
   caption: ""
   image: ""
 ---
-{{< hl >}}project title{{< /hl >}}: *Distributed Algorithms for Efficient Approximate Analytics of Multidimensional Big Data Streams*
+{{< hl >}}project title{{< /hl >}}: *NEW:Distributed Algorithms for Efficient Approximate Analytics of Multidimensional Big Data Streams*
 
 {{< hl >}}Role{{< /hl >}}:  **`PI`** 
 
